@@ -1,4 +1,4 @@
-# Linux-Force-Feedback
+# Linux Force-Feedback
 
 This repository serves as a centralized place to report about the status of Force Feedback on Linux,
 and anything related (e.g., features, applications, documentation).
