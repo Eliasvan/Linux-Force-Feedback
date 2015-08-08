@@ -12,6 +12,10 @@ it is practically equivalent with a denial of service.
 If rate-limiting is supported by the driver,
 no application should be able to cause previously mentioned problems.
 
+To illustrate the problem (+ a potential solution),
+check out this video:
+https://www.youtube.com/watch?v=JG5HUPLuS1s
+
 
 #### ffchoke
 
